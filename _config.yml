@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: iTZQing的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: 
+email: itzqing@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, iTZQing的博客"
 url: "http://iTZQing.github.io"          # your host, for absolute URL
@@ -20,7 +20,7 @@ sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/abo
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    
+github_username: iTZQing   
 facebook_username:  
 jianshu_username:   
 #twitter_username:   
