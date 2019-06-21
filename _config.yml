@@ -11,7 +11,7 @@ github_repo: "https://github.com/iTZQing/iTZQing.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "暂时是一个作业\n给某杰"
+sidebar-about-description: "我的各个平台头像~~~"
 sidebar-avatar:  /img/5062100.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
